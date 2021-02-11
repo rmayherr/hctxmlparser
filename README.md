@@ -1,0 +1,1 @@
+JavaEE application has supplementary xml files containing Namespace binding values for Websphere application server. Purpose of this script to read xml file and select nsb data. Those are ingested by AdminConfig.create() jython script to install Namespace binding strings for specific server.  
